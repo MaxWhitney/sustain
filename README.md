@@ -1,4 +1,6 @@
 
+This is a fork of the "sustain" blog template, described below:
+
 # Sustain
 
 [![Build Status](https://secure.travis-ci.org/jekyller/sustain.png?branch=gh-pages)](http://travis-ci.org/jekyller/sustain)
@@ -14,30 +16,15 @@ hosted in [Github pages](https://pages.github.com/).
 [Sustain Live Demo](https://jekyller.github.io/sustain)
 
 
-## Screenshots
-
-**Home page**
-![home page](https://raw.githubusercontent.com/jekyller/sustain/gh-pages/assets/images/screen1.png)
-
-**Blog page**
-![blog page](https://raw.githubusercontent.com/jekyller/sustain/gh-pages/assets/images/screen2.png)
-
-**Post page**
-![post page](https://raw.githubusercontent.com/jekyller/sustain/gh-pages/assets/images/screen3.png)
-
-**Projects page**
-![project page](https://raw.githubusercontent.com/jekyller/sustain/gh-pages/assets/images/screen4.png)
-
-
 ## How to use it
 
-Simply clone/fork this repository, and then run `jekyll serve` inside the directory.
+Clone/fork this repository, and then run `jekyll serve` inside the directory.
 Edit the site attributes in *_config.yml* and edit the various entries in *_includes/* and *_posts/*.
 
 
 ## Issues and contributing
 
-I have tested this install with Ruby v2.4.2 (Mac OS RVM) and Jekyll v3.6.2. If you run into any problems please log them on the [issue tracker](https://github.com/jekyller/sustain/issues).
+The original author tested this install with Ruby v2.4.2 (Mac OS RVM) and Jekyll v3.6.2. If you run into any problems please log them on the [issue tracker](https://github.com/jekyller/sustain/issues).
 
 Feel free pull-request your patches and fixes.
 
@@ -48,7 +35,7 @@ Feel free pull-request your patches and fixes.
 
 ## Thanks
 
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
+Template Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
 
 
 ## Copyright & License
