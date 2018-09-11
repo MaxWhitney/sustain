@@ -164,6 +164,11 @@ body {
   font-size: 18px;
 }
 
+/* Override the green label-success color coming from bootstrap */
+.label-success{
+  background-color: #21A8A2;
+}
+
 /* Footer 
 -------------------------------------------------- */
 
